@@ -1,0 +1,4 @@
+#Ignore Grib and netcdf files
+*.grib
+*.idx
+*.nc
