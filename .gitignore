@@ -2,3 +2,5 @@
 *.grib
 *.idx
 *.nc
+# ignore ipbyn checkpoints
+.ipynb_checkpoints/
